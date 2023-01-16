@@ -103,7 +103,7 @@ Ways of working is how a team collaborates. It should lead to connection, belong
 
 We used the ways of working to help us understand our responsibilities in the team. This included understanding our strengths and weakenesses as well as knowing that open communication and collaboration are our foundations. 
 
-![Ways of working](docs/images/miro/ways_of_working.png)
+<img src="docs/images/miro/ways_of_working.png" width="400">
 
 **Notes:**
 
