@@ -27,9 +27,9 @@ ________________________________________________________________
 
 [Product Development](#productdevelopment)
 1. [Ways of Working](#working)
-2. Brainstorming
-3. Defining the problem
-4. User Story Mapping
+2. [Brainstorming](#brainstorming)
+3. [Defining the problem](#problem)
+4. [User Story Mapping](#storymapping)
 5. Analysis
 
 # My Cocktail App<a name="mycocktail"></a>
@@ -81,7 +81,7 @@ Add Wireframes here
 
 **Day 1: Trello Screenshot**
 
-<img src="docs/images/trello/day_1.png" width="400">
+<img src="docs/images/trello/day_1.png" width="500">
 
 **Notes:**
 * Official day of starting My Cocktail App as a Team. 
@@ -89,13 +89,21 @@ Add Wireframes here
 * Monday the 16th of Jan - Review and update wireframe concept
 * Tech investigation of API/ Architectural design investigation of Tech Stack
 
-<img src="docs/images/trello/day1_req1.png" width="400">
+<img src="docs/images/trello/day1_req1.png" width="500">
 
 In the above screenshot, together as a Team we brainstormed and decided on the purpose/ features/ components/ target audience and tech stack. 
 
 # Product Development<a name="productdevelopment"></a>
 
-Add notes and screenshots from miro here
+Below are the steps as a Team we took to help us understand the following:
+
+* How to effectively work as a Team
+* Product Delivery methodologies
+* Understand the problem we are solving 
+* Product analysis methods
+* Who are target audience for this application are
+* Tech investigations to make sure we are using the correct tech stack
+
 
 # Ways of Working<a name="working"></a>
 
@@ -103,7 +111,7 @@ Ways of working is how a team collaborates. It should lead to connection, belong
 
 We used the ways of working to help us understand our responsibilities in the team. This included understanding our strengths and weakenesses as well as knowing that open communication and collaboration are our foundations. 
 
-<img src="docs/images/miro/ways_of_working.png" width="300">
+<img src="docs/images/miro/ways_of_working.png" width="400">
 
 **Notes:**
 
@@ -118,3 +126,30 @@ Kanban. Take a task as we need to do it.
 “Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.”
 
 - This is how we set up the initial Trello Board. Wrote all the intial tickets and into a backlog/ to do column that we can all see and track. 
+
+# Brainstorming<a name="brainstorming"></a>
+
+<img src="docs/images/miro/brainstorming.png" width="400">
+
+Together we dicussed and used a virtual white board to brainstorm an idea. 
+
+From the original idea, we dicussed features and functionality. Then we pressure tested with with what problem would this product solve. 
+
+# Defining the problem<a name="problem"></a>
+
+<img src="docs/images/miro/problem.png" width="400">
+
+From this acitivity, we knew that we were solving a problem to help customers save time in planning a making and making a delicious cocktail. 
+
+We also knew that we were targeting customers who struggle to find a good cocktail receipe online. This is why we wanted focus on the search functionality as part of the MVP (Minimal Viable Product). 
+
+# User Story Mapping<a name="storymapping"></a>
+
+<img src="docs/images/miro/user_story_mapping.png" width="500">
+
+1. Define a user: We used the name Tom who is planning a party.
+2. Follow Tom's journey on how we would use the app.
+
+From the initial story mapping of one user. We realised that the first thing a customer wants to do is Search. This validated our original problem. 
+
+We tested this theory by using competitors online who have a similar application to searching and making cocktails. 
