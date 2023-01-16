@@ -10,9 +10,9 @@
 
 **Important Links:**
 
-[Trello](https://trello.com/invite/b/bGaDJxU8/ATTI8ede4dc9eb69ccd7f3c83fc1213fe4b54F7075F6/t3a2-mern-app-part-a)
+[Trello](https://trello.com/invite/b/bGaDJxU8/ATTI8ede4dc9eb69ccd7f3c83fc1213fe4b54F7075F6/t3a2-mern-app-part-a) - Product Delivery 
 
-[Miro](https://miro.com/app/board/uXjVPzbXD88=/)
+[Miro](https://miro.com/app/board/uXjVPzbXD88=/) - Virtual Whiteboard for Team Collaboration
 ________________________________________________________________
 
 ## Table of Contents
@@ -31,6 +31,12 @@ ________________________________________________________________
 3. [Defining the problem](#problem)
 4. [User Story Mapping](#storymapping)
 5. [Analysis](#analysis)
+
+[Technical Documentation](#techdocumentation)
+1. Cocktail API
+2. Technical Discovery
+
+
 
 # My Cocktail App<a name="mycocktail"></a>
 
@@ -63,7 +69,7 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 # Dataflow Diagram<a name="dataflow"></a>
 
-Add diagram here....
+Add dataflow diagram here....
 
 # Application Architecture Diagram<a name="architecture"></a>
 
@@ -75,7 +81,46 @@ Add user stories here
 
 # Wireframes<a name="wireframes"></a>
 
-Add Wireframes here
+Wireframe Design Notes:
+* Desktop Appplication wireframes
+* Mobile Web Application wireframes
+* Responsive Design - Different Desktop Screen sizes 
+* User Flow Diagram
+
+## Desktop Application Wireframes
+
+**Home/ Search**
+
+<img src="docs/images/miro/home.png" width="400">
+
+**Hamburger Menu**
+
+<img src="docs/images/miro/menu.png" width="400">
+
+**Search Results**
+
+<img src="docs/images/miro/search_results.png" width="400">
+
+**Cocktail Page**
+
+<img src="docs/images/miro/search_results.png" width="400">
+
+**My Cocktail**
+
+<img src="docs/images/miro/my_cocktail.png" width="400">
+
+**All Cocktail List**
+
+<img src="docs/images/miro/all_cocktails.png" width="400">
+
+## User Flow Diagram
+
+<img src="docs/images/miro/user_flow.png" width="400">
+
+
+
+
+
 
 # Product Tracking - Trello<a name="trello"></a>
 
@@ -164,3 +209,7 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 <img src="docs/images/miro/analysis.png" width="500">
 
 <img src="docs/images/miro/competitors.png" width="500">
+
+# Technical Documentation<a name="techdocumentation"></a>
+
+Add information here about API's and any documentation related to this product. 
