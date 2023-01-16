@@ -26,7 +26,7 @@ ________________________________________________________________
 6. [Product Tracking - Trello](#trello)
 
 [Product Development](#productdevelopment)
-1. Ways of Working
+1. [Ways of Working](#working)
 2. Brainstorming
 3. Defining the problem
 4. User Story Mapping
@@ -34,7 +34,7 @@ ________________________________________________________________
 
 # My Cocktail App<a name="mycocktail"></a>
 
-## Introduction<a name="introduction"></a>
+# Introduction<a name="introduction"></a>
 The purpose of **My Cocktail App** is to develop a Wiki app guide to making classic and modern cocktails. Using the  cocktail databaseb API. It features a database with  lists  of ingredients for each cocktail recipe, allowing users to quickly find the ingredients they need to craft a particular drink, by filtering using alcohol type and name of cocktail.
 
 **Target Audience:**
@@ -83,13 +83,38 @@ Add Wireframes here
 
 ![Day 1 Trello Screenshot](docs/images/trello/day_1.png)
 
-Notes: 
+**Notes:**
 * Official day of starting My Cocktail App as a Team. 
 * Previously set up ways of working with Team expectations
 * Monday the 16th of Jan - Review and update wireframe concept
 * Tech investigation of API/ Architectural design investigation of Tech Stack
 
+![Requirement 1 Screenshot](docs/images/trello/day1_req1.png)
+
+In the above screenshot, together as a Team we brainstormed and decided on the purpose/ features/ components/ target audience and tech stack. 
 
 # Product Development<a name="productdevelopment"></a>
 
 Add notes and screenshots from miro here
+
+# Ways of Working<a name="working"></a>
+
+Ways of working is how a team collaborates. It should lead to connection, belonging, trust, speed, and momentum, all outcomes of successful team engagement.
+
+We used the ways of working to help us understand our responsibilities in the team. This included understanding our strengths and weakenesses as well as knowing that open communication and collaboration are our foundations. 
+
+![Ways of working](docs/images/miro/ways_of_working.png)
+
+**Notes:**
+
+Discussed together 
+* (Yes) Daily Check In (Discord) 
+* (Yes) Every second day a virtual meeting (15/30 minutes to overview where we are at)?
+* Task allocation (When we need to do a task, discuss together)
+
+**Agile Methodology**
+
+Kanban. Take a task as we need to do it. 
+“Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.”
+
+- This is how we set up the initial Trello Board. Wrote all the intial tickets and into a backlog/ to do column that we can all see and track. 
