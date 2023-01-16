@@ -119,17 +119,7 @@ Wireframe Design Notes:
 
 ## Mobile Web Application Wireframes
 
-**Home/ Search**
-
-**Search Results**
-
-**Cocktail Page**
-
-**My Cocktail**
-
-**All Cocktail List**
-
-
+<img src="docs/images/miro/mobile_web.png" width="700">
 
 
 ## User Flow Diagram
