@@ -81,7 +81,7 @@ Add Wireframes here
 
 **Day 1: Trello Screenshot**
 
-![Day 1 Trello Screenshot](docs/images/trello/day_1.png)
+<img src="docs/images/trello/day_1.png" width="400">
 
 **Notes:**
 * Official day of starting My Cocktail App as a Team. 
@@ -89,7 +89,7 @@ Add Wireframes here
 * Monday the 16th of Jan - Review and update wireframe concept
 * Tech investigation of API/ Architectural design investigation of Tech Stack
 
-![Requirement 1 Screenshot](docs/images/trello/day1_req1.png)
+<img src="docs/images/trello/day1_req1.png" width="400">
 
 In the above screenshot, together as a Team we brainstormed and decided on the purpose/ features/ components/ target audience and tech stack. 
 
@@ -103,7 +103,7 @@ Ways of working is how a team collaborates. It should lead to connection, belong
 
 We used the ways of working to help us understand our responsibilities in the team. This included understanding our strengths and weakenesses as well as knowing that open communication and collaboration are our foundations. 
 
-<img src="docs/images/miro/ways_of_working.png" width="400">
+<img src="docs/images/miro/ways_of_working.png" width="300">
 
 **Notes:**
 
