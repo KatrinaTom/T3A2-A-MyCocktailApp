@@ -30,7 +30,7 @@ ________________________________________________________________
 2. [Brainstorming](#brainstorming)
 3. [Defining the problem](#problem)
 4. [User Story Mapping](#storymapping)
-5. Analysis
+5. [Analysis](#analysis)
 
 # My Cocktail App<a name="mycocktail"></a>
 
@@ -101,8 +101,8 @@ Below are the steps as a Team we took to help us understand the following:
 * Product Delivery methodologies
 * Understand the problem we are solving 
 * Product analysis methods
-* Who are target audience for this application are
-* Tech investigations to make sure we are using the correct tech stack
+* Identify target audience for this application
+* Tech investigations to make sure we are using the correct tech stack / components
 
 
 # Ways of Working<a name="working"></a>
@@ -133,7 +133,7 @@ Kanban. Take a task as we need to do it.
 
 Together we dicussed and used a virtual white board to brainstorm an idea. 
 
-From the original idea, we dicussed features and functionality. Then we pressure tested with with what problem would this product solve. 
+From the original idea, we dicussed features and functionality. We wanted to ensure we had a problem to solve and we did this through further competitor analysis. 
 
 # Defining the problem<a name="problem"></a>
 
@@ -153,3 +153,14 @@ We also knew that we were targeting customers who struggle to find a good cockta
 From the initial story mapping of one user. We realised that the first thing a customer wants to do is Search. This validated our original problem. 
 
 We tested this theory by using competitors online who have a similar application to searching and making cocktails. 
+
+# Analysis<a name="analysis"></a>
+
+Product analysis is “the process of gathering, defining, and analyzing data about a product or service to make better decisions.” To create products that fit the needs of your target market, you need to have a clear understanding of what those needs are. This is where product analysis comes in.
+
+* Competitor analysis
+* UX/UI investigations
+
+<img src="docs/images/miro/analysis.png" width="500">
+
+<img src="docs/images/miro/competitors.png" width="500">
