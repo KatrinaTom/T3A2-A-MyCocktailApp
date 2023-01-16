@@ -41,7 +41,7 @@ ________________________________________________________________
 # My Cocktail App<a name="mycocktail"></a>
 
 # Introduction<a name="introduction"></a>
-The purpose of **My Cocktail App** is to develop a Wiki app guide to making classic and modern cocktails. Using the  cocktail databaseb API. It features a database with  lists  of ingredients for each cocktail recipe, allowing users to quickly find the ingredients they need to craft a particular drink, by filtering using alcohol type and name of cocktail.
+The purpose of **My Cocktail App** is to develop a Wiki app guide to making classic and modern cocktails. Using the  cocktail database API. It features a database with  lists  of ingredients for each cocktail recipe, allowing users to quickly find the ingredients they need to craft a particular drink, by filtering using alcohol type and name of cocktail.
 
 **Target Audience:**
 
@@ -73,7 +73,9 @@ Add dataflow diagram here....
 
 # Application Architecture Diagram<a name="architecture"></a>
 
-Add Architecture diagram here
+**MERN Stack App - Architecture Diagram**
+
+<img src="docs/images/miro/architecture.png" width="600">
 
 # User Stories<a name="userstories"></a>
 
@@ -84,38 +86,55 @@ Add user stories here
 Wireframe Design Notes:
 * Desktop Appplication wireframes
 * Mobile Web Application wireframes
-* Responsive Design - Different Desktop Screen sizes 
+* Responsive Design
 * User Flow Diagram
 
 ## Desktop Application Wireframes
 
 **Home/ Search**
 
-<img src="docs/images/miro/home.png" width="400">
+<img src="docs/images/miro/home.png" width="300">
 
 **Hamburger Menu**
 
-<img src="docs/images/miro/menu.png" width="400">
+<img src="docs/images/miro/menu.png" width="200">
 
 **Search Results**
 
-<img src="docs/images/miro/search_results.png" width="400">
+<img src="docs/images/miro/search_results.png" width="300">
 
 **Cocktail Page**
 
-<img src="docs/images/miro/search_results.png" width="400">
+<img src="docs/images/miro/search_results.png" width="300">
 
 **My Cocktail**
 
-<img src="docs/images/miro/my_cocktail.png" width="400">
+<img src="docs/images/miro/my_cocktail.png" width="300">
 
 **All Cocktail List**
 
-<img src="docs/images/miro/all_cocktails.png" width="400">
+<img src="docs/images/miro/all_cocktails.png" width="300">
+
+
+
+## Mobile Web Application Wireframes
+
+**Home/ Search**
+
+**Search Results**
+
+**Cocktail Page**
+
+**My Cocktail**
+
+**All Cocktail List**
+
+
+
 
 ## User Flow Diagram
 
-<img src="docs/images/miro/user_flow.png" width="400">
+<img src="docs/images/miro/user_flow.png" width="300">
 
 
 
