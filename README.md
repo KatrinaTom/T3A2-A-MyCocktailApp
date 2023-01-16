@@ -79,7 +79,16 @@ Add Wireframes here
 
 # Product Tracking - Trello<a name="trello"></a>
 
-Add process of Trello and screenshots
+**Day 1: Trello Screenshot**
+
+![Day 1 Trello Screenshot](docs/images/trello/day_1.png)
+
+Notes: 
+* Official day of starting My Cocktail App as a Team. 
+* Previously set up ways of working with Team expectations
+* Monday the 16th of Jan - Review and update wireframe concept
+* Tech investigation of API/ Architectural design investigation of Tech Stack
+
 
 # Product Development<a name="productdevelopment"></a>
 
