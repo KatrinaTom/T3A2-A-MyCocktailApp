@@ -79,7 +79,26 @@ Add dataflow diagram here....
 
 # User Stories<a name="userstories"></a>
 
-Add user stories here
+Main User Story:
+
+<img src="docs/images/miro/main_story.png" width="300">
+
+Search Functionality (cocktail):
+
+<img src="docs/images/miro/search_cocktail.png" width="300">
+
+Search Functionality (alcohol):
+
+<img src="docs/images/miro/search_alcohol.png" width="300">
+
+List All Cocktails:
+
+<img src="docs/images/miro/list_all.png" width="300">
+
+Save - My Cocktails:
+
+<img src="docs/images/miro/save.png" width="300">
+
 
 # Wireframes<a name="wireframes"></a>
 
@@ -91,44 +110,16 @@ Wireframe Design Notes:
 
 ## Desktop Application Wireframes
 
-**Home/ Search**
-
-<img src="docs/images/miro/home.png" width="300">
-
-**Hamburger Menu**
-
-<img src="docs/images/miro/menu.png" width="200">
-
-**Search Results**
-
-<img src="docs/images/miro/search_results.png" width="300">
-
-**Cocktail Page**
-
-<img src="docs/images/miro/search_results.png" width="300">
-
-**My Cocktail**
-
-<img src="docs/images/miro/my_cocktail.png" width="300">
-
-**All Cocktail List**
-
-<img src="docs/images/miro/all_cocktails.png" width="300">
-
-
+<img src="docs/images/wireframes/desktop_wireframes.png" width="700">
 
 ## Mobile Web Application Wireframes
 
-<img src="docs/images/miro/mobile_web.png" width="700">
+<img src="docs/images/wireframes/mobile_web.png" width="700">
 
 
 ## User Flow Diagram
 
 <img src="docs/images/miro/user_flow.png" width="300">
-
-
-
-
 
 
 # Product Tracking - Trello<a name="trello"></a>
@@ -146,6 +137,17 @@ Wireframe Design Notes:
 <img src="docs/images/trello/day1_req1.png" width="500">
 
 In the above screenshot, together as a Team we brainstormed and decided on the purpose/ features/ components/ target audience and tech stack. 
+
+**In Progress: Trellosreenshot**
+
+<img src="docs/images/trello/in_progress.png" width="500">
+
+**Notes:**
+* Finished Architecture Aiagram
+* Wireframes completed - however low-fi is next (decisions on font family/ colours/ update to design / styling)
+* No need for a presentation (powerpoint) or video presentation.
+* Setting up a Tech Discovery to break out the components and tasks in preperation for development. 
+
 
 # Product Development<a name="productdevelopment"></a>
 
@@ -175,6 +177,10 @@ Discussed together
 * Task allocation (When we need to do a task, discuss together)
 
 **Agile Methodology**
+
+<img src="docs/agile.png" width="400">
+
+**Framework**
 
 Kanban. Take a task as we need to do it. 
 “Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.”
