@@ -33,7 +33,7 @@ ________________________________________________________________
 5. [Analysis](#analysis)
 
 [Technical Documentation](#techdocumentation)
-1. Cocktail API
+1. [Cocktail API](#api)
 2. Technical Discovery
 
 
@@ -145,6 +145,7 @@ In the above screenshot, together as a Team we brainstormed and decided on the p
 **Notes:**
 * Finished Architecture Aiagram
 * Wireframes completed - however low-fi is next (decisions on font family/ colours/ update to design / styling)
+* User Stories added to Backlog of My Cocktail App - In preperaton for Development.
 * No need for a presentation (powerpoint) or video presentation.
 * Setting up a Tech Discovery to break out the components and tasks in preperation for development. 
 
@@ -178,7 +179,7 @@ Discussed together
 
 **Agile Methodology**
 
-<img src="docs/agile.png" width="400">
+<img src="docs/images/agile.png" width="400">
 
 **Framework**
 
@@ -227,4 +228,31 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 
 # Technical Documentation<a name="techdocumentation"></a>
 
-Add information here about API's and any documentation related to this product. 
+This section is part of the Tecnical investigations to make sure the product idea is feasabile. 
+
+# Cocktail API<a name="api"></a>
+
+**API Ninjas**
+
+1. https://api-ninjas.com/api/cocktail
+
+<img src="docs/images/vodka.png" width="300">
+
+<img src="docs/images/sample_response.png" width="500">
+
+JSON Response
+* Ingredients
+* Instructions
+* Name
+
+**Note**
+API brings back the name of the cocktail and if search is alcohol, brings back a cocktail matching the alcohol parameter. 
+
+
+**The Cocktail DB**
+
+2. https://www.thecocktaildb.com/api.php
+
+**Note**
+More extensive api, however for production it requires a Patreon payment. 
+
