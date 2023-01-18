@@ -143,7 +143,7 @@ Wireframe Design Notes:
 
 **With Login/Register**
 
-<img src="docs/images/miro/userflow_login.png" width="300">
+<img src="docs/images/miro/userflow_login.png" width="500">
 
 
 # Product Tracking - Trello<a name="trello"></a>
@@ -309,4 +309,25 @@ We will be using this API https://www.thecocktaildb.com/api.php
 
 
 # Technical Discovery<a name="techdisco"></a>
+
+**Agenda**
+- Walk through Wire Frames
+- Discuss Features
+- Review Architecture
+- Task List (Next Steps for Set Up)
+- Discuss Designs (colours/ fonts)
+- Review User Stories
+
+**Notes**
+* Updated Miro with notes / Need to add Sign Up / Login / 
+* Create Error Page
+* Added To-Do List
+* Decided on API (Free API | TheCocktailDB.com)
+
+Next Steps: Development set up. 
+
+1. Test Repo (test to Fork, git branch)
+2. Follow to do list (set up Frontend/ Backend) - MVC
+
+<img src="docs/images/miro/todo_list.png" width="500">
 
