@@ -21,9 +21,10 @@ ________________________________________________________________
 1. [Introduction](#introduction)
 2. [Dataflow Diagram](#dataflow)
 3. [Application Architecture Diagram](#architecture)
-4. [User Stories](#userstories)
-5. [Wireframes](#wireframes)
-6. [Product Tracking - Trello](#trello)
+4. [Minimal Viable Product](#mvp)
+5. [User Stories](#userstories)
+6. [Wireframes](#wireframes)
+7. [Product Tracking - Trello](#trello)
 
 [Product Development](#productdevelopment)
 1. [Ways of Working](#working)
@@ -34,7 +35,7 @@ ________________________________________________________________
 
 [Technical Documentation](#techdocumentation)
 1. [Cocktail API](#api)
-2. Technical Discovery
+2. [Technical Discovery](#techdisco)
 
 
 
@@ -77,6 +78,29 @@ Add dataflow diagram here....
 
 <img src="docs/images/miro/architecture.png" width="600">
 
+# Minimal Viable Product<a name="mvp"></a>
+
+A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle.
+
+**Inital Concept**
+
+1. Home Page / Search Feature 
+2. Results Page / Display the search results
+
+**MVP**
+
+To have a better experience is to have a Save Feature that behind a login screen.
+
+3. Save Cocktails / Save favourite cocktails
+4. Register and Login / Update your favourite cocktails (add/ remove)
+
+**Additional Features** 
+    
+Iteraction 2
+
+* Add your own cocktaik receipe (CRUD functionality) to your Favourite List
+* Filter on search results - Ability to search with ingredients that you have. Then match a cocktail to those ingredients.
+
 # User Stories<a name="userstories"></a>
 
 Main User Story:
@@ -85,19 +109,7 @@ Main User Story:
 
 Search Functionality (cocktail):
 
-<img src="docs/images/miro/search_cocktail.png" width="300">
 
-Search Functionality (alcohol):
-
-<img src="docs/images/miro/search_alcohol.png" width="300">
-
-List All Cocktails:
-
-<img src="docs/images/miro/list_all.png" width="300">
-
-Save - My Cocktails:
-
-<img src="docs/images/miro/save.png" width="300">
 
 
 # Wireframes<a name="wireframes"></a>
@@ -232,6 +244,8 @@ This section is part of the Tecnical investigations to make sure the product ide
 
 # Cocktail API<a name="api"></a>
 
+Investigation of API's to match our wireframes. 
+
 **API Ninjas**
 
 1. https://api-ninjas.com/api/cocktail
@@ -246,13 +260,27 @@ JSON Response
 * Name
 
 **Note**
-API brings back the name of the cocktail and if search is alcohol, brings back a cocktail matching the alcohol parameter. 
 
+- API brings back the name of the cocktail.
+- API brings back the search results of cocktails if an alcohol is specified.
+- API is free to use
+- Does not have any other functionality
 
 **The Cocktail DB**
 
 2. https://www.thecocktaildb.com/api.php
 
 **Note**
-More extensive api, however for production it requires a Patreon payment. 
+- API brings back the name of the cocktail.
+- API brings back the search results of cocktails if an alcohol is specified.
+- API returns images of cocktails
+- Test API is free
+- However for production it requires a Patreon payment
+
+**Result**
+
+We will be using this API https://www.thecocktaildb.com/api.php 
+
+
+# Technical Discovery<a name="techdisco"></a>
 
