@@ -348,4 +348,4 @@ Next Steps: Development set up.
 
 ______________________________________________________________
 
-### Return to the top<a name="mycocktail"></a>
+[Return to the Top](#mycocktail)
