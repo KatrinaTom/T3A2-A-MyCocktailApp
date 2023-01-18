@@ -117,7 +117,7 @@ Wireframe Design Notes:
 
 ## Desktop Application Wireframes
 
-<img src="docs/images/wireframes/desktop_wireframes.png" width="700">
+<img src="docs/images/wireframes/attempt3_desktop.png" width="700">
 
 ## Mobile Web Application Wireframes
 
@@ -132,7 +132,7 @@ Wireframe Design Notes:
 
 **Sign In Flow**
 
-<img src="docs/images/wireframes/signIn_wireframess.png" width="700">
+<img src="docs/images/wireframes/signIn_wireframes.png" width="700">
 
 ## User Flow Diagram
 
@@ -248,6 +248,10 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 **Attempt 2: Mobile Web Wireframes**
 
 <img src="docs/images/wireframes/mobile_web.png" width="700">
+
+**Attempt 2: Desktop Wireframes**
+
+<img src="docs/images/wireframes/desktop_wireframes.png" width="700">
 
 # Technical Documentation<a name="techdocumentation"></a>
 
