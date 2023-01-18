@@ -311,11 +311,11 @@ We will be using this API https://www.thecocktaildb.com/api.php
 # Technical Discovery<a name="techdisco"></a>
 
 **Agenda**
-- Walk through Wire Frames
-- Discuss Features
+- Walk through Wire Frames (updated to include Register/Sign In)
+- Discuss Features (Consideration for returning a certain amount of cocktails, rather than an entire list)
 - Review Architecture
 - Task List (Next Steps for Set Up)
-- Discuss Designs (colours/ fonts)
+- Discuss Designs (colours/ fonts) 
 - Review User Stories
 
 **Notes**
