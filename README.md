@@ -89,7 +89,7 @@ A minimum viable product, or MVP, is a product with enough features to attract e
 
 **MVP**
 
-To have a better experience is to have a Save Feature that behind a login screen.
+To have a better experience, is to have a Save Feature that is behind a login screen.
 
 3. Save Cocktails / Save favourite cocktails
 4. Register and Login / Update your favourite cocktails (add/ remove)
@@ -103,14 +103,9 @@ Iteraction 2
 
 # User Stories<a name="userstories"></a>
 
-Main User Story:
+User Stories capturing the MVP Features
 
-<img src="docs/images/miro/main_story.png" width="300">
-
-Search Functionality (cocktail):
-
-
-
+<img src="docs/images/miro/user_stories.png" width="500">
 
 # Wireframes<a name="wireframes"></a>
 
