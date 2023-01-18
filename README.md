@@ -32,6 +32,7 @@ ________________________________________________________________
 3. [Defining the problem](#problem)
 4. [User Story Mapping](#storymapping)
 5. [Analysis](#analysis)
+6. [Design Concepts](#design)
 
 [Technical Documentation](#techdocumentation)
 1. [Cocktail API](#api)
@@ -136,7 +137,13 @@ Wireframe Design Notes:
 
 ## User Flow Diagram
 
+**Without Login**
+
 <img src="docs/images/miro/user_flow.png" width="300">
+
+**With Login/Register**
+
+<img src="docs/images/miro/userflow_login.png" width="300">
 
 
 # Product Tracking - Trello<a name="trello"></a>
@@ -252,6 +259,10 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 **Attempt 2: Desktop Wireframes**
 
 <img src="docs/images/wireframes/desktop_wireframes.png" width="700">
+
+**Design Ideas**
+
+<img src="docs/images/miro/design_ideas.png" width="700">
 
 # Technical Documentation<a name="techdocumentation"></a>
 
