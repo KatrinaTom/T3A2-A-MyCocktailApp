@@ -87,12 +87,12 @@ A minimum viable product, or MVP, is a product with enough features to attract e
 1. Home Page / Search Feature 
 2. Results Page / Display the search results
 
-**MVP**
-
-To have a better experience, is to have a Save Feature that is behind a login screen.
+To have a better experience, is to have a Save Feature that is behind a login screen. 
 
 3. Save Cocktails / Save favourite cocktails
 4. Register and Login / Update your favourite cocktails (add/ remove)
+
+The above is our Minimal Viable Product for My Cocktail App.
 
 **Additional Features** 
     
@@ -121,8 +121,18 @@ Wireframe Design Notes:
 
 ## Mobile Web Application Wireframes
 
-<img src="docs/images/wireframes/mobile_web.png" width="700">
+**Not Signed In Flow**
 
+<img src="docs/images/wireframes/attempt3_notSignedIn.png" width="700">
+
+**Register Flow**
+
+<img src="docs/images/wireframes/register_wireframes.png" width="700">
+
+
+**Sign In Flow**
+
+<img src="docs/images/wireframes/signIn_wireframess.png" width="700">
 
 ## User Flow Diagram
 
@@ -232,6 +242,12 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 <img src="docs/images/miro/analysis.png" width="500">
 
 <img src="docs/images/miro/competitors.png" width="500">
+
+# Design  Concepts<a name="design"></a>
+
+**Attempt 2: Mobile Web Wireframes**
+
+<img src="docs/images/wireframes/mobile_web.png" width="700">
 
 # Technical Documentation<a name="techdocumentation"></a>
 
