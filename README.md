@@ -162,7 +162,7 @@ Wireframe Design Notes:
 
 In the above screenshot, together as a Team we brainstormed and decided on the purpose/ features/ components/ target audience and tech stack. 
 
-**In Progress: Trellosreenshot**
+**In Progress: Trello sreenshot**
 
 <img src="docs/images/trello/in_progress.png" width="500">
 
@@ -172,6 +172,21 @@ In the above screenshot, together as a Team we brainstormed and decided on the p
 * User Stories added to Backlog of My Cocktail App - In preperaton for Development.
 * No need for a presentation (powerpoint) or video presentation.
 * Setting up a Tech Discovery to break out the components and tasks in preperation for development. 
+
+**In Progress: After Technical Discovery**
+
+<img src="docs/images/trello/in_progress2.png" width="500">
+
+**Notes:**
+After the Technical Disovery, we have a better indiciation of the complexity and where to start. 
+
+* To Do list - Set up environment, deployment, MVC folders for Backened and Frontend. 
+* Create a Git Repositoy
+* Set up Mongo Database
+* Set up a Frontend 
+* Start with building the framework for Home/Search (Frontend/Backend)
+
+This is an interative process and we can continue to do this style of meeting to discovery any complexity. 
 
 
 # Product Development<a name="productdevelopment"></a>
@@ -331,3 +346,6 @@ Next Steps: Development set up.
 
 <img src="docs/images/miro/todo_list.png" width="500">
 
+______________________________________________________________
+
+### Return to the top<a name="cocktail"></a>
