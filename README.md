@@ -10,9 +10,9 @@
 
 **Important Links:**
 
-[Trello](https://trello.com/invite/b/bGaDJxU8/ATTI8ede4dc9eb69ccd7f3c83fc1213fe4b54F7075F6/t3a2-mern-app-part-a) - Product Delivery 
+[Trello](https://trello.com/invite/b/bGaDJxU8/ATTI8ede4dc9eb69ccd7f3c83fc1213fe4b54F7075F6/t3a2-mern-app-part-a) - Product Delivery (Board is Public)
 
-[Miro](https://miro.com/app/board/uXjVPzbXD88=/) - Virtual Whiteboard for Team Collaboration
+[Miro](https://miro.com/app/board/uXjVPzbXD88=/) - Virtual Whiteboard for Team Collaboration (Anyone with link can view)
 ________________________________________________________________
 
 ## Table of Contents
@@ -83,7 +83,7 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 **High Level System Context Diagram**
 
-The below diagram is a high level view of the My Cocktail App. With this high level view, it can be easily identified that there is a lot more complexity, without the additional detail. The additional detail in regards to componments, and interactions between components is in the Dataflow Diagram. 
+The below diagram is a high level view of the My Cocktail App. With this high level view, it can be easily identified that there is a lot more complexity, without the additional detail. The additional detail in regards to componments, and interactions between components is in the Dataflow Diagram. This diagram would be used to discuss with Product Managers and Stakeholders.
 
 <img src="docs/images/miro/high_level_architecture.png" width="600">
 
@@ -115,7 +115,7 @@ Iteraction 2
 
 User Stories capturing the MVP Features
 
-<img src="docs/images/miro/user_stories.png" width="500">
+<img src="docs/images/miro/user_stories.png" width="700">
 
 # Wireframes<a name="wireframes"></a>
 
@@ -295,7 +295,7 @@ Product analysis is “the process of gathering, defining, and analyzing data ab
 
 # Technical Documentation<a name="techdocumentation"></a>
 
-This section is part of the Tecnical investigations to make sure the product idea is feasabile. 
+This section is part of the Technical investigations to make sure the product idea is feasabile. While investigating any unknown, spike tickets.
 
 # Cocktail API<a name="api"></a>
 
