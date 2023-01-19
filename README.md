@@ -184,7 +184,7 @@ In the above screenshot, together as a Team we brainstormed and decided on the p
 
 **In Progress: After Technical Discovery**
 
-<img src="docs/images/trello/in_progress2.png" width="500">
+<img src="docs/images/trello/progress2.png" width="500">
 
 **Notes:**
 After the Technical Disovery, we have a better indiciation of the complexity and where to start. 
