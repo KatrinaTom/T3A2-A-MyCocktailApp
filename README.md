@@ -71,13 +71,20 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 # Dataflow Diagram<a name="dataflow"></a>
 
-Add dataflow diagram here....
+**Dataflow Design**
+
+<img src="docs/images/miro/dataflow.png" width="600">
 
 # Application Architecture Diagram<a name="architecture"></a>
 
 **MERN Stack App - Architecture Diagram**
 
 <img src="docs/images/miro/architecture.png" width="600">
+
+**High Level System Context Diagram**
+
+<img src="docs/images/miro/high_level_architecture.png" width="600">
+
 
 # Minimal Viable Product<a name="mvp"></a>
 
