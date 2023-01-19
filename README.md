@@ -79,7 +79,7 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 **MERN Stack App - Architecture Diagram**
 
-<img src="docs/images/miro/architecture.png" width="600">
+<img src="docs/images/miro/architecture1.png" width="600">
 
 **High Level System Context Diagram**
 
