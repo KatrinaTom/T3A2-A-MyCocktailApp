@@ -197,6 +197,11 @@ After the Technical Disovery, we have a better indiciation of the complexity and
 
 This is an interative process and we can continue to do this style of meeting to discovery any complexity. 
 
+**Ready for Submission:**
+
+Trello snapshot of all tasks completed for PART A. Ready for Development with our Backlog updated (with what we know so far).
+
+<img src="docs/images/trello/submission.png" width="500">
 
 # Product Development<a name="productdevelopment"></a>
 
