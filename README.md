@@ -83,6 +83,8 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 **High Level System Context Diagram**
 
+The below diagram is a high level view of the My Cocktail App. With this high level view, it can be easily identified that there is a lot more complexity, without the additional detail. The additional detail in regards to componments, and interactions between components is in the Dataflow Diagram. 
+
 <img src="docs/images/miro/high_level_architecture.png" width="600">
 
 
