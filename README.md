@@ -203,7 +203,7 @@ Trello snapshot of all tasks completed for PART A. Ready for Development with ou
 
 <img src="docs/images/trello/submission.png" width="500">
 
-With a seperate MVP Column to track Feature competition. Added additional requirements for Phase B to track
+With a seperate MVP Column to track Feature competition. Added additional requirements for Phase B to track.
 
 <img src="docs/images/trello/submission1.png" width="500">
 
@@ -365,6 +365,7 @@ Next Steps: Development set up.
 <img src="docs/images/miro/todo_list.png" width="500">
 
 Dataflow structure - Version 1
+
 <img src="docs/images/miro/dataflow.png" width="400">
 
 ______________________________________________________________
