@@ -73,7 +73,7 @@ This app is targeted to  home bartenders, cocktail enthusiasts and professional 
 
 **Dataflow Design**
 
-<img src="docs/images/miro/dataflow.png" width="600">
+<img src="docs/images/miro/dataflow1.jpg" width="600">
 
 # Application Architecture Diagram<a name="architecture"></a>
 
@@ -202,6 +202,10 @@ This is an interative process and we can continue to do this style of meeting to
 Trello snapshot of all tasks completed for PART A. Ready for Development with our Backlog updated (with what we know so far).
 
 <img src="docs/images/trello/submission.png" width="500">
+
+With a seperate MVP Column to track Feature competition. Added additional requirements for Phase B to track
+
+<img src="docs/images/trello/submission1.png" width="500">
 
 # Product Development<a name="productdevelopment"></a>
 
@@ -359,6 +363,9 @@ Next Steps: Development set up.
 2. Follow to do list (set up Frontend/ Backend) - MVC
 
 <img src="docs/images/miro/todo_list.png" width="500">
+
+Dataflow structure - Version 1
+<img src="docs/images/miro/dataflow.png" width="400">
 
 ______________________________________________________________
 
