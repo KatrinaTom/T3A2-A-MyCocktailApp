@@ -92,24 +92,39 @@ The below diagram is a high level view of the My Cocktail App. With this high le
 
 A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle.
 
-**Inital Concept**
+**MVP API Features:**
+* Home Page / Search Feature
+* Users can do a search by alcohol,name,ingredients.
+* Users can view cocktails / information
+* Users can view a list of cocktails for ideas
 
-1. Home Page / Search Feature 
-2. Results Page / Display the search results
+**The API Backend:**
 
-To have a better experience, is to have a Save Feature that is behind a login screen. 
+CRUD routes for cocktails to: 
+* Get list of random cocktail from cocktail db API
+* Get  cocktails by name from cocktail db API
+* Get cocktail ingredients and recipes from cocktail db  API
+* Get cocktail by alcohol type from cocktail db Api
 
-3. Save Cocktails / Save favourite cocktails
-4. Register and Login / Update your favourite cocktails (add/ remove)
+Extra & Additional Features: To have a better experience
 
-The above is our Minimal Viable Product for My Cocktail App.
+Frontend
 
-**Additional Features** 
-    
-Iteraction 2
-
-* Add your own cocktaik receipe (CRUD functionality) to your Favourite List
+* Register & Login
+* users can save their favorite cocktails
+* users can view their favorite cocktails
 * Filter on search results - Ability to search with ingredients that you have. Then match a cocktail to those ingredients.
+
+Backend
+
+Users:
+
+ (login/register)
+
+* Authentication to delete/ view saved recipes
+* Save favorite cocktail
+* View My Saved Cocktails
+* Update favorite cocktail list
 
 # User Stories<a name="userstories"></a>
 
